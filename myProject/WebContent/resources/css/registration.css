@@ -1,0 +1,21 @@
+@CHARSET "ISO-8859-1";
+		span{
+			color:red
+		}  
+		input {
+		    width: 300;
+		    height: 30;
+		}
+		select{
+			width: 300;
+		    height: 30;		
+		}  
+		#sub {
+ 		   width: 150;
+		}
+		
+
+		td {
+		    font-style: italic;
+		    font-size: 18;
+		}

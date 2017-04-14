@@ -1,0 +1,17 @@
+@CHARSET "ISO-8859-1";
+#img {
+    width: 50 px;
+    height: 50 px;
+}
+
+
+
+element.style {
+    user-select: none;
+    cursor: zoom-out;
+}
+
+img[Attributes Style] {
+    width: 150px;
+    height: 150px;
+}
